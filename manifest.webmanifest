@@ -1,0 +1,13 @@
+{
+  "name": "School Desk – Chief Proctor & Teacher Planner",
+  "short_name": "School Desk",
+  "description": "Tasks, timetable, attendance, proctor log and exam duty in one place.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0f2e",
+  "theme_color": "#161d52",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
